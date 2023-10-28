@@ -14,7 +14,7 @@ Stretch Features The following stretch functionality is completed[x]:
 [x]The site’s customized dashboard contains more content that explains what is interesting about the data
 [x]The site allows users to toggle between different data visualizations
 
-![Project 6 Walkthrough](https://github.com/HannaMT/Project-6/assets/142746456/b7002429-6ea2-4eb2-98e4-09f84a507408)
+![Project 6 Walkthrough](https://github.com/HannaMT/Project-6/assets/142746456/1ea6d5bb-a1a4-4d0d-a531-4c87b9468c56)
 
 GIF created with LICECAP
 
