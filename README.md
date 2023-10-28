@@ -1,4 +1,4 @@
-Project 5 - Data Dashboard Part 2
+Project 6 - Data Dashboard Part 2
 by: Hanna Tafari 
 Time spent: 9 hours spent in total
 
@@ -13,4 +13,8 @@ The following required functionality is completed[x]:
 Stretch Features The following stretch functionality is completed[x]: 
 [x]The site’s customized dashboard contains more content that explains what is interesting about the data
 [x]The site allows users to toggle between different data visualizations
+
+![Project 6 Walkthrough](https://github.com/HannaMT/Project-6/assets/142746456/b7002429-6ea2-4eb2-98e4-09f84a507408)
+
+GIF created with LICECAP
 
