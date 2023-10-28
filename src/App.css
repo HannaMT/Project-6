@@ -1,0 +1,88 @@
+.body{
+  background-color: powderblue;
+  display: flex;
+  padding-left: 200px;
+  width:100vw;
+  height: 100vh;
+}
+
+.Side-Bar{
+  background-color:darkcyan;
+  width: 200px;
+  height: 100%;
+  position:fixed;
+  left:0;
+}
+
+#NavBar{
+  font-size: 20px;
+}
+
+#main{
+  display:flex;
+  flex-direction:column;
+}
+
+.data{
+  display:flex;
+  flex-direction:row;
+}
+
+#Card{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    gap: 10px 20px;
+    padding: 40px;
+}
+
+#card1, #card2, #card3{
+  text-align:center;
+  background-color: aquamarine;
+  border-radius: 15px;
+  width: 300px;
+}
+
+th,td{
+  text-align:center;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+#List{
+  background-color:aquamarine;
+  border-radius: 15px;
+}
+#top{
+  display:flex;
+  flex-direction: row;
+  margin-left: 150px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  align-items: center;
+}
+
+#top1,#top2,#top3{
+  display:flex;
+  flex-direction:row;
+  padding-left: 10px;
+}
+
+.charts {
+  display: flex;
+  flex-direction:column;
+  justify-content: space-around;
+  background-color: white; 
+  border-radius: 15px;
+  margin: 20px;
+  padding: 20px;
+
+}
+
+.maxChart,.minChart {
+  color:Black; 
+  padding: 10px;
+  border-radius: 10px;
+  height: 300px;
+  width: 500px;
+}
