@@ -69,6 +69,7 @@ function App() {
             <table>
               <thead>
                 <tr>
+                  <th>Details</th>
                   <th>Date</th>
                   <th>Max Temperature</th>
                   <th>Min Temperature</th>
